@@ -1,16 +1,24 @@
 ## Nice ways to reach me 👋
 
----
 - GitHub: [@danny3274](https://github.com/danny3274)
-- Email: danny3274@naver.com
+- Email: [danny3274@naver.com](mailto:danny3274@naver.com)
+
 ---
+
 Hi! I’m an Industrial and Management Engineering student at Hankuk University of Foreign Studies, interested in building AI systems for mobility and real-world environments.
+
 I’m particularly interested in computer vision and spatial intelligence for understanding people, places, and movement, as well as data-driven prediction and optimization for mobility and industrial systems.
+
 ---
+
 <details>
 <summary><b>Personal Stats</b></summary>
 
 <br>
+
+<!-- GitHub stats 카드 등을 넣을 자리 -->
+
+</details>
 
 ### Highlights
 
@@ -28,9 +36,7 @@ Python · Java · SQL
 Pandas · Scikit-learn · Machine Learning · Data Visualization · Prediction · Optimization
 
 **Development & Tools**  
-GitHub · VS Code · Notion · REST API
+Git · GitHub · VS Code · Notion · REST API
 
 **Interests**  
 Computer Vision · Spatial Intelligence · Mobility AI · Industrial AI · Data Engineering
-
-</details>
