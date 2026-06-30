@@ -1,16 +1,36 @@
-## Hi there 👋
+## Nice ways to reach me 👋
 
-<!--
-**Minwoo5/Minwoo5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+- GitHub: [@danny3274](https://github.com/danny3274)
+- Email: danny3274@naver.com
+---
+Hi! I’m an Industrial and Management Engineering student at Hankuk University of Foreign Studies, interested in building AI systems for mobility and real-world environments.
+I’m particularly interested in computer vision and spatial intelligence for understanding people, places, and movement, as well as data-driven prediction and optimization for mobility and industrial systems.
+---
+<details>
+<summary><b>Personal Stats</b></summary>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Highlights
+
+- Developed **MOON**, a context-aware pedestrian guidance system with route explanation, deviation detection, and rerouting.
+- Built an **EV charging demand forecasting** project using Seoul neighborhood-level data and machine learning models.
+- Designed a university cafeteria integration system for menu, nutrition, allergen, order, and meal-plan management.
+- Led capstone project coordination, including documentation, team workflow, final deliverables, and presentation preparation.
+
+### Proficiencies
+
+**Languages**  
+Python · Java · SQL
+
+**Data & AI**  
+Pandas · Scikit-learn · Machine Learning · Data Visualization · Prediction · Optimization
+
+**Development & Tools**  
+GitHub · VS Code · Notion · REST API
+
+**Interests**  
+Computer Vision · Spatial Intelligence · Mobility AI · Industrial AI · Data Engineering
+
+</details>
