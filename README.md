@@ -1,6 +1,6 @@
 ## 👋 Nice ways to reach me
 
-[![Gmail](https://img.shields.io/badge/Gmail-danny6908%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danny6908@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-danny6908%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:danny6908@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-@danny3274-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/danny3274)
 
 ---
